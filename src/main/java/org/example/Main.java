@@ -6,7 +6,6 @@ public class Main {
         test();
     }
 
-
     private static void test() {
         Integer number1 = 10;
         Integer number2 = 0;
